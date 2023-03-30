@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![droplets calmly swirling in a cicular motion](https://raw.githubusercontent.com/ChristopherAyling/breath/main/brth.svg)
+<image src="https://raw.githubusercontent.com/ChristopherAyling/breath/main/brth.svg" alt="droplets calmly swirling in a cicular motion" height="200" />
 
 - 🔭 I’m currently working on backing up github repositories and a novel ML field named X-Recovery
 - 🌱 I’m currently learning about operating systems, Rust and electronics
